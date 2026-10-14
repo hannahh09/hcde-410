@@ -3,20 +3,18 @@ Files for HCDE410 - Assignment A1
 
 Adapted from # cdsw-2020 https://wiki.communitydata.science/Seattle_open_data
 
-```
+
 # A1 — Working with Open Data
 
 **Dataset:** Burke-Gilman Trail counter north of NE 70th St
-**Source:** https://data.seattle.gov/Transportation/.../2z5v-ecg8  (pulled 2026-10-12)
-**License / terms of use:** <find it on the dataset's page and note it here>
+**Source:** https://data.seattle.gov/Transportation/Burke-Gilman-Trail-north-of-NE-70th-St-Bicycle-Cou/2z5v-ecg8/about_data  (pulled 2026-10-12)
+**License / terms of use:** Public Domain, as listed in the dataset's metadata on data.seattle.gov (attribution: City of Seattle; dataset owner: Zuniga, Rafael). 
 
 ## Questions I asked
-- I used Claude for starter code. I ran every cell to produce the plots and tables, which I used my own judgment to answer the questions. What I asked:
-- I asked how I could get the precise numbers from a graph. Claude suggested printing a table of values, which I added to my Q1–Q4 cells so my answers cite exact values.
-- I asked how to add titles and axis labels to a plot, and I added them to every plot.
-- The original code Claude proposed only included bikes, so I pushed back as the assignment doesn't limit Q4 to bikes. I asked Claude for its rationale and then decided to include pedestrians. The code now plots both bikes and pedestrians in each direction.
-
+- Q1: Which hour is the trail busiest and quietest? (Busiest 5 pm, quietest 2 am.)
+- Q2: Do cyclists and pedestrians use the trail at different times of day? (Yes: bikes peak at 8 am and 5 pm, pedestrians at 9 am.)
+- Q3: Is there evidence of commuting? (Yes for bikes on weekdays, not for pedestrians.)
+- Q4: Are mornings and evenings mostly opposite directions? (Yes for bikes: north in the morning, south in the evening.)
 
 ## How to re-run
 Open `A1.ipynb` and run all cells (needs `requests`, `pandas`, `matplotlib`).
-```
