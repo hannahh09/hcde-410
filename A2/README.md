@@ -2,12 +2,13 @@ Exercises and assignments for HCDE410: Human Data Interaction. Everything here i
 
 #HCDE 410 A2 - Exploring sources of bias in data
 **Dataset:** Wikipedia Talk Corpus (crowdworker demographics and toxicity labels), the training data behind Google Jigsaw's Perspective API
+
 **Source:** 
-Figshare:
 https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973
 https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Aggression/4267550
 https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Personal_Attacks/4054689
 (downloaded 2026-10-24)
+
 **License / terms of use:** CC0 public domain dedication, as listed on the dataset’s Figshare page (attribution: Wulczyn, Ellery; Thain, Nithum; Dixon, Lucas (2016))
 
 ## Questions I asked
