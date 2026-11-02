@@ -1,1 +1,86 @@
 run,prompt,model,version,timestamp,output,verified,notes
+1,"Search three peer-reviewed papers on the topic of HCI and social media design. For your output, only return the title, authors, year, and DOI of each",Gemini,Gemini 3.1 Pro,12:37 AM,"Title: Integrating Social Media into the Design Process
+Authors: Morva Saaty, Jaitun V. Patel, Derek Haqq, Timothy L. Stelter, & D. Scott McCrickard
+Year: 2022
+DOI: 10.48550/arxiv.2205.04315
+
+Title: The contributions of human-computer interaction to rethinking design: US-American and European perspectives on critical diversity and design
+Authors: Laura Schelenz
+Year: 2025
+DOI: 10.1080/14606925.2025.2573710
+
+Title: Analysis and Design of Social Presence in a Computer-Mediated Communication System
+Authors: Hiroki Kojima, Dominique Chen, Mizuki Oka, & Takashi Ikegami
+Year: 2021
+DOI: 10.3389/fpsyg.2021.641927",verified; Correct — matches the real source,
+2,"Search three peer-reviewed papers on the topic of HCI and social media design. For your output, only return the title, authors, year, and DOI of each",Gemini,Gemini 3.1 Pro,12:38 AM,"Title: Analysis and Design of Social Presence in a Computer-Mediated Communication System
+Authors: Hiroki Kojima, Dominique Chen, Mizuki Oka, & Takashi Ikegami
+Year: 2021
+DOI: 10.3389/fpsyg.2021.641927
+
+Title: Integrating Social Media into the Design Process
+Authors: Morva Saaty, Jaitun V. Patel, Derek Haqq, Timothy L. Stelter, & D. Scott McCrickard
+Year: 2022
+DOI: 10.48550/arxiv.2205.04315
+
+Title: Design Implications for a Social and Collaborative Understanding of online Information Assessment Practices, Challenges and Heuristics
+Authors: Vasilis Vlachokyriakos, Ian G. Johnson, Robert Anderson, Caroline Claisse, Viana Zhang, & Pamela Briggs
+Year: 2024
+DOI: 10.48340/ecscw2024_n04",verified; Correct — matches the real source,
+3,"Search three peer-reviewed papers on the topic of HCI and social media design. For your output, only return the title, authors, year, and DOI of each",Gemini,Gemini 3.1 Pro,12:39 AM,"Title: Social Media as a Design and Research Site in HCI: Mapping Out Opportunities and Envisioning Future Uses
+Authors: Morva Saaty, Jaitun V. Patel, Derek Haqq, & D. Scott McCrickard
+Year: 2021
+DOI: 10.1145/3411763.3441311
+
+Title: Micro-narratives: A Scalable Method for Eliciting Stories of People’s Lived Experience
+Authors: Amira Skeggs, Ashish Mehta, Valerie Yap, Seray Ibrahim, Sean Munson, Aubrey Rhodes, James Gross, Predrag Klasnja, Amy Orben, & Petr Slovak
+Year: 2025
+DOI: 10.31234/osf.io/ty8fg_v2
+
+Title: Human–Computer Interaction (HCI) Advances to Re-Contextualize Cultural Heritage toward Multiperspectivity, Inclusion, and Sensemaking
+Authors: Linda Hirsch, Siiri Paananen, Denise Lengyel, Jonna Häkkilä, Georgios Toubekis, Reem Talhouk, & Luke Hespanhol
+Year: 2024
+DOI: 10.3390/app14177652",verified; Correct — matches the real source,
+4,"Search three peer-reviewed papers on the topic of HCI and social media design. For your output, only return the title, authors, year, and DOI of each",ChatGPT,Free,12:41 AM,"1. Title: Form-From: A Design Space of Social Media Systems
+Authors: Amy X. Zhang, Michael S. Bernstein, David R. Karger, Mark S. Ackerman
+Year: 2024
+DOI: 10.1145/3641006 
+
+2. Title: Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor
+Authors: Shagun Jhaver, Alice Qian Zhang, Quan Ze Chen, Nikhila Natarajan, Ruotong Wang, Amy X. Zhang
+Year: 2023
+DOI: 10.1145/3610080 
+
+3. Title: “Sharing, Not Showing Off”: How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design
+Authors: Jaewon Kim, Robert Wolfe, Ishita Chordia, Katie Davis, Alexis Hiniker
+Year: 2024
+DOI: 10.1145/3686909",verified; Correct — matches the real source,
+5,"Search three peer-reviewed papers on the topic of HCI and social media design. For your output, only return the title, authors, year, and DOI of each",Gemini,3.8 Flash,9:04 AM,"1.
+
+Title: “I Don’t Even Remember What I Read”: How Design Influences Dissociation on Social Media
+
+Authors: Amanda Baughan, Mingrui Ray Zhang, Raveena Rao, Kai Lukoff, Anastasia Schaadhardt, Lisa D. Butler, Alexis Hiniker
+
+Year: 2022
+
+DOI: https://doi.org/10.1145/3491102.3501899
+
+2.
+
+Title: Monitoring Screen Time or Redesigning It? Two Approaches to Supporting Intentional Social Media Use
+
+Authors: Mingrui Zhang, Kai Lukoff, Raveena Rao, Amanda Baughan, Alexis Hiniker
+
+Year: 2022
+
+DOI: https://doi.org/10.1145/3491102.3517722
+
+3.
+
+Title: How the Design of YouTube Influences User Sense of Agency
+
+Authors: Kai Lukoff, Ulrik Lyngs, Himanshu Zade, J. Vera Liao, James Choi, Kaiyue Fan, Sean A. Munson, Alexis Hiniker
+
+Year: 2021
+
+DOI: https://doi.org/10.1145/3411764.3445467",verified; Correct — matches the real source,"P1's output, sent via iMessages to me after observation task"

@@ -1,1 +1,8 @@
 observation,theme
+[9:03 AM] P1 clicked on Gemini from the Bookmars Bar,Familiar use of LLMs
+"[9:04 AM] P1 scanned through the list results without scrolling and said ""Ok, the DOIs all seemed clickable.""",Over-trust
+[9:08 AM] P1 concluded it matches and said it's accurate,Manual comparison to verify
+[9:08 AM] P1 did not open the second or third DOI,Partial verification
+[9:11 AM] P1 said they would not usually ask for the year and DOI. They would just as for a list of paper titles and maybe ask for a summary of each. They also said they would not usually search for the paper outside the chat to verify unless they were committing to read it for the research project.,Prompt mismatch; Skip verification
+Lukoff and Hiniker are authors on all three papers; P1 did not mention this,Sample skew
+All three papers are from CHI; P1 did not mention this,Source skew
